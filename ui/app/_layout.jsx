@@ -5,7 +5,7 @@ export default function RootLayout() {
     <Stack.Screen
         name="index" // this targets app/index.tsx
         options={{
-          title: "Dream App",           // This will show in the header
+          title: "Dreamless Ai",           // This will show in the header
           headerTitleAlign: "center", // optional: centers the title (iOS/Android)
           headerStyle: { backgroundColor: "#f4511e" }, // optional styling
           headerTintColor: "#fff",                    // optional text color
