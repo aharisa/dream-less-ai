@@ -9,6 +9,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
    npm install
    ```
+<!-- python -m uvicorn app:app --reload --host 0.0.0.0 --port 8000 -->
 
 2. Start the app
 
